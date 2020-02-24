@@ -1,0 +1,24 @@
+{
+  "name": "learnautomation",
+  "version": "1.0.0",
+  "description": "Framework of UI using JS and NightWatch",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adarsha010/nightwatch.git"
+  },
+  "author": "adarsha t",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adarsha010/nightwatch/issues"
+  },
+  "homepage": "https://github.com/adarsha010/nightwatch#readme",
+  "devDependencies": {
+    "chromedriver": "^80.0.1",
+    "geckodriver": "^1.19.1",
+    "nightwatch": "^1.3.4"
+  }
+}
